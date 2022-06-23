@@ -1,0 +1,6 @@
+a:link, a:visited {
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 0px 5px;
+    font-weight: bold;
+}
